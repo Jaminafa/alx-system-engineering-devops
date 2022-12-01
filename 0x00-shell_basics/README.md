@@ -17,5 +17,5 @@ The script "14-copy_html" is used to copy all the HTML files from the working di
 The script "100-lets_move" moves all files beginning with an uppercase letter to the directory /tmp/u.
 The scripy "101-clean_emacs deletes all files in the current working directory that end with the character ~.
 The script "102-tree" creates three directories.
-
+The script "103-commas" lists the content of the working directory in ascending numeric order, separated by commas and with directores identified with a forward slash after the directory name.
 
