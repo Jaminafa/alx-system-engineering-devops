@@ -1,2 +1,2 @@
 #!/bib/bash
-chmod -r 
+chmod ugo+x */  
