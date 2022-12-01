@@ -11,4 +11,5 @@ The script "9-firstdirdeletion" deletes the directory /tmp/my_first_directory.
 The script "10-back" changes the working directory to the previous one.
 The script "11-lists" lists the contents of multiple directories (including their hidden content) in detail.
 The script "12-file_type" checks the file type of a file in a directory.
+The script "13-symbolic_link" creates symbolic link.
 
