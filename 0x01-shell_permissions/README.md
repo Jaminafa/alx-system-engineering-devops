@@ -13,4 +13,5 @@ The script "9-John_Doe" sets the mode of the file 'hello' to -rwxr-x-wx.
 The script "10-mirror_permissions" sets the mode of the file hello the same as olleh's mode.
 
 The script "12-directory_permissions" creates 'my_dir' with permissions 751 in the working directory.
+The script "13-change_group" changes the group owner of hello to school.
 
