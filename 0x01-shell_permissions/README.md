@@ -9,3 +9,5 @@ The script "5-execute" adds execute permission to the owner of the file hello.
 The script "6-multiple_permissions" adds execute permissions and read permissions to the file's group users and other users respectively.
 The script "7-everybody" adds execution permission to the owner, the group owner and the other users to the file 'hello'.
 The script "8-James_Bond" sets the permission; owner and Group: no permission at all, Other users: all the permissions.
+The script "9-John_Doe" sets the mode of the file 'hello' to -rwxr-x-wx.
+
