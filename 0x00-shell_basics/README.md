@@ -13,3 +13,8 @@ The script "11-lists" lists the contents of multiple directories (including thei
 The script "12-file_type" checks the file type of a file in a directory.
 The script "13-symbolic_link" creates symbolic link.
 The script "14-copy_html" is used to copy all the HTML files from the working directory to the parent of the working directory.
+
+The script "100-lets_move" moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+
+
