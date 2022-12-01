@@ -9,5 +9,6 @@ The script "7-movethatfile" moves the file betty from /tmp/ to /tmp/my_first_dir
 The script "8-firstdelete" deletes the file /tmp/my_first_directory/betty.
 The script "9-firstdirdeletion" deletes the directory /tmp/my_first_directory.
 The script "10-back" changes the working directory to the previous one.
-The scripy "11-lists" lists the contents of multiple directories (including their hidden content) in detail.
+The script "11-lists" lists the contents of multiple directories (including their hidden content) in detail.
+The script "12-file_type" checks the file type of a file in a directory.
 
