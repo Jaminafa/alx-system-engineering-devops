@@ -12,4 +12,5 @@ The script "8-James_Bond" sets the permission; owner and Group: no permission at
 The script "9-John_Doe" sets the mode of the file 'hello' to -rwxr-x-wx.
 The script "10-mirror_permissions" sets the mode of the file hello the same as olleh's mode.
 
+The script "12-directory_permissions" creates 'my_dir' with permissions 751 in the working directory.
 
