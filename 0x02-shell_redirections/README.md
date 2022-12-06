@@ -14,4 +14,8 @@ Script 10-no_more_js deletes all .js files in the working directory and its subd
 Script 11-directories counts the number of directories and sub-directories in the current directory.
 Script 12-newest_files displays the 10 newest files in the current directory.
 Script 13-unique takes a list of words as input and prints only words that appear exactly once.
+Script 14-findthatword Displaylines containig the patter root from the file /etc/passwd.
+
+
+
 
