@@ -9,7 +9,7 @@ Script 5-local_variables lists all local variables and environmental variables a
 Script 6-create_local_variable creates the local variable BEST="School".
 Script 7-create_global_variable creates the global variable BEST="School".
 Script 8-true_knowledge adds 128 to the value of TRUEKNOWLEDGE global variable.
-
+Script 9-divide_and_rule prints the result of POWER divided by DIVIDE environental variables
 
 
 
