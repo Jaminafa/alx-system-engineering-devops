@@ -21,6 +21,6 @@ Script 17-hidethisword displays all the lines in the file /etc/passwd that do no
 Script 18-letteronly displays all lines of the file /etc/ssh/sshd_config starting with a letter.
 Script 19-AZ replaces all characters A and c from input to Z and e respectively.
 Script 20-hiago removes all letters c and C from input.
-
+Script 21 reverses its input
 
 
