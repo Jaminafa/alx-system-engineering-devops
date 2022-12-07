@@ -11,7 +11,8 @@ Script 7-create_global_variable creates the global variable BEST="School".
 Script 8-true_knowledge adds 128 to the value of TRUEKNOWLEDGE global variable.
 Script 9-divide_and_rule prints the result of POWER divided by DIVIDE environental variables
 Script 10-love_exponent_breath displays the result of BREATH to the power of LOVE.
-
+Script 11-binary_to_decimal converts a number from base 2 to base 10.
+Script 12-combination prints all combinations of tqo letters except oo.
 
 
 
