@@ -8,6 +8,7 @@ Script 4-global_variables lists environmental variables
 Script 5-local_variables lists all local variables and environmental variables and funtions.
 Script 6-create_local_variable creates the local variable BEST="School".
 Script 7-create_global_variable creates the global variable BEST="School".
+Script 8-true_knowledge adds 128 to the value of TRUEKNOWLEDGE global variable.
 
 
 
